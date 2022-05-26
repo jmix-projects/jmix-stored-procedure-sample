@@ -107,4 +107,4 @@ public class CarService {
 }
 ```
 
-You may check how the `CarService` works using the [CarService](src/main/java/com/company/sample/CarServiceTest.java) 
+You may check how the `CarService` works using the [CarServiceTest](src/test/java/com/company/sample/CarServiceTest.java) 
