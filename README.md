@@ -1,3 +1,5 @@
+**ATTENTION: this repository is deprecated in favor of https://github.com/jmix-framework/jmix-samples**
+
 # Jmix Database Stored Procedures Sample
 
 The sample projects demonstrates how you can read data using database functions with parameters and then display the results on Jmix screens.
